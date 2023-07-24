@@ -1,0 +1,71 @@
+#list-cat-tit {
+  border-radius: 15px;
+  width: 40%;
+  align-items: center;
+  text-align: center;
+  margin-left: 30%;
+  margin-top: 15px;
+  background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+}
+#list-cat-crear {
+  margin-left: 35%;
+  width: 30%;
+  border-radius: 15px;
+  background-image: linear-gradient(to right, #ffecd2 0%, #fcb69f 100%);
+
+  text-align: center;
+  font-size: 26px;
+}
+#list-cat-tabla {
+  margin-bottom: 40px;
+  font-size: 24px;
+  border-radius: 5px;
+  margin-top: 15px;
+  margin-left: 0%;
+  background-image: linear-gradient(to right, #f4b45a 0%, #c651a7 100%);
+}
+.theadTitulo {
+  background-color: black;
+  color: white;
+  align-items: center;
+  text-align: center;
+}
+
+.TRCategoria {
+  border: solid 2px;
+}
+
+td {
+  padding: 40px;
+}
+
+.botonEliminar {
+  background-color: white;
+  border-style: none;
+  border-radius: 10px;
+  font-size: 16px;
+  padding: 10px;
+  margin-right: 10px;
+  border-radius: 15px;
+}
+
+.botonAccion {
+  display: flex;
+
+  border-radius: 15px;
+}
+.botonEditar {
+  border-style: none;
+  border-radius: 10px;
+  font-size: 16px;
+  padding: 10px;
+  margin-right: 10px;
+  background-color: white;
+
+  color: black;
+  margin-right: 15px;
+}
+
+.subtituloCategoria {
+  color: black;
+}
